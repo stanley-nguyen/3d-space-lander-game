@@ -2,6 +2,9 @@
 A physics-driven 3D Lunar Lander game developed in C++ with OpenFrameworks for CS 134 at San Jose State University taught by Professor Kevin Smith.
 
 Navigate a spacecraft through a simulation of the moon and reach the goal.
+
+[Download here](https://github.com/stanley-nguyen/3d-space-lander-game/releases/download/v1.0.0/SpaceLander.zip)
+
 ## Features  
 - **Physics Simulation**: Realistic thrust, gravity, and turbulence forces.
 - **Collision Detection**: Ray-based altitude telemetry and impulse-based terrain collision resolution.
