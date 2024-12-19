@@ -20,5 +20,23 @@ Navigate a spacecraft through a simulation of the moon and reach the goal.
 - **Win Conditions**: Land safely with appropriate velocity.
 - **Lose Conditions**: Hard landings or fuel depletion result in crashes or explosions.
 
+## Controls  
+- **Movement**:  
+  - **ARROW KEYS**: Move spacecraft
+  - **SPACE**: Thrust up
+
+- **Camera**:
+  - **C**: Lock/Unlock camera movement
+  - **1**: Switch to default camera
+  - **2**: Switch to tracking camera
+  - **3**: Switch to onboard camera
+
+- **Telemetry**:  
+  - **A**: Toggle telemetry sensor
+
+- **Other**:
+  - **k**: Toggle spacecraft light
+  - **r**: Reset game
+
 ## Demo
 [Gameplay Trailer](https://youtu.be/cKlDbwHeRGM)
