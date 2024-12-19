@@ -19,3 +19,6 @@ Navigate a spacecraft through a simulation of the moon and reach the goal.
   - Telemetry: Toggle altitude detection display.
 - **Win Conditions**: Land safely with appropriate velocity.
 - **Lose Conditions**: Hard landings or fuel depletion result in crashes or explosions.
+
+## Demo
+[Gameplay Trailer](https://youtu.be/cKlDbwHeRGM)
